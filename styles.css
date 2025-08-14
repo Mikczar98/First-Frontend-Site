@@ -1,0 +1,27 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.margin {
+    margin-bottom: 4rem;
+}
+
+.advertisement {
+    width: auto;
+    height: 150px;
+    display: flex;
+    border-radius: 25px;
+    background-color: rgb(98, 98, 98);
+}
+
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    color: white;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
